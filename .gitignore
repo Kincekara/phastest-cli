@@ -1,0 +1,6 @@
+phastest-app/DB/*.db
+phastest-app/DB/*.tbl
+Dockerfile
+test/
+phastest_out/
+
