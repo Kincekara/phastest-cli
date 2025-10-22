@@ -3,7 +3,7 @@
 
 This work is still under development!
 
-Command line version of the [PHASTEST](https://phastest.ca/) web app, which is designed to support the rapid identification, annotation, and visualization of prophage sequences within bacterial genomes and plasmids.
+Command line version of the [PHASTEST](https://phastest.ca/) web app, which is designed to support the rapid identification, and annotation of prophage sequences within bacterial genomes and plasmids.
 
 Some of the scripts have been modified to improve portability and standalone functions.
 
